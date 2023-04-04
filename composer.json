@@ -63,7 +63,8 @@
         "islandora/openseadragon": "^2",
         "islandora/views_nested_details": "^1.0",
         "library/pdf.js": "^2.4",
-        "mjordan/islandora_workbench_integration": "^1.0"
+        "mjordan/islandora_workbench_integration": "^1.0",
+        "born-digital-us/islandora_oral_histories": "*"
     },
     "conflict": {
         "drupal/drupal": "*",
